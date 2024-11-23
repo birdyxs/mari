@@ -23,7 +23,9 @@
    
   body {
   background-image:linear-gradient(to right, #febabd, #010101);background-attachment:fixed;background-size:cover;color:#010101;font-family: 'Barlow';font-size:10px;line-height:110%;letter-spacing:0px;text-align:justify;margin:0;padding:0;-moz-osx-font-smoothing:grayscale; -webkit-font-smoothing:antialiased; font-smoothing:antialiased; }
-  
+
+*, body, img { cursor:url(https://64.media.tumblr.com/tumblr_lpyq1ercbM1qcn2vb.gif), auto;}
+
   a {
   color:#febabd;text-decoration:none; transition-duration: 0.3s;-moz-transition-duration: 0.3s;-webkit-transition-duration: 0.3s;-o-transition-duration: 0.3s; }
    
